@@ -1,5 +1,5 @@
 {
-    "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+    "body": "{\"source\":\"tok_visa\",\"storage\":21}",
     "requestContext": {
       "identity": {
         "cognitoIdentityId": "vitor.colman2001@gmail.com"
