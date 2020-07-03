@@ -1,0 +1,8 @@
+{
+    "Template": {
+      "TemplateName": "TemplateMinions",
+      "SubjectPart": "Olá, {{nome}}! Confirmação de reserva BGC Toys.",
+      "HtmlPart": "<h1>Olá {{nome}}!,</h1><p>Sua reserva na BGC Toys foi confirmada!</p>",
+      "TextPart": "Olá {{nome}},\r\n Sua reserva do produto {{produto}} foi confirmada."
+    }
+  }
